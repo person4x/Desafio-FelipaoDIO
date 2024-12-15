@@ -36,5 +36,4 @@ function classificarHeroi() {
     });
 }
 
-// Chamar a função para executar o programa
 classificarHeroi();
